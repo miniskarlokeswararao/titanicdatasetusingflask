@@ -1,0 +1,25 @@
+##### Core scientific packages
+jupyter==1.0.0
+matplotlib==3.3.4
+ numpy>=1.15
+pandas==1.1.5
+scipy==1.5.4
+seaborn==0.11.2
+flask==2.0.3
+##### Machine Learning packages
+scikit-learn==0.24.1
+pickle5
+
+##### TensorFlow-related packages
+
+# If you want to use a GPU, it must have CUDA Compute Capability 3.5 or
+# higher support, and you must install CUDA, cuDNN and more: see
+# tensorflow.org for the detailed installation instructions.
+
+tensorflow==1.15.5 # or tensorflow-gpu==1.15.5 for GPU support
+
+tensorboard==1.15.0
+
+
+
+
